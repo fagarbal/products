@@ -11,4 +11,4 @@ npm run build
 
 The final code will be generated into the docs folder.
 
-see the demo
+<a href='https://fagarbal.github.io/products/'>watch live demo</a>
